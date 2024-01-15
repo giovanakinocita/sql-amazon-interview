@@ -41,5 +41,5 @@ O comando COUNT foi utilizado para contar o número de trabalhadores, onde o nom
 
 O MONTH foi utilizado para filtrar somente o mês da coluna joining_date da tabela worker.
 
-
+Medium: https://medium.com/@giovanakinocita/amazon-interview-sql-server-d11300bf13c3
 
