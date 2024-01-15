@@ -1,4 +1,4 @@
-##Amazon Interview: SQL Server
+#Amazon Interview: SQL Server
 Exercícios retirados do Stratascratch:
 
 No presente artigo, estão a resolução de dois exercícios retirados de uma entrevista para um cargo na Amazon.
